@@ -9,7 +9,8 @@
       "group": {
         "kind": "build",
         "isDefault": true
-      }, {
+      }
+    }, {
       "label": "Build and run the demo application",
       "type": "shell",
       "command": "mvn",
