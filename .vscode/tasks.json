@@ -15,8 +15,7 @@
       "command": "mvn",
       "args": ["clean", "spring-boot:run"],
       "group": {
-        "kind": "build",
-        "isDefault": true
+        "kind": "build"
       }
     }
   ]
